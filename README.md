@@ -15,6 +15,21 @@ A dynamic website for the District Vocational Training Centre (DVTC – Nintavur
 
 ---
 
+## 🩺 Doctor Channeling Center (Java Desktop App)
+
+A Java-based desktop application for managing doctor channeling appointments at a medical center.
+
+🗂 Features:
+- Patient registration and channeling system
+- Doctor availability checker
+- Billing system with Rs.750 fixed channeling fee
+- Automatically track and mark “Regular Patients”
+- Daily report generation
+- Form navigation + Insert/Modify/Delete
+
+🔒 [Private Repo – Available on Request](https://github.com/Infasa-AH/doctor-channeling-center)  
+💼 Tech Used: Java • Java Swing GUI • File Handling / JDBC
+
 ## 📂 More Projects Coming Soon...
 
 I'm currently working on other exciting projects and will update this space as I grow!
