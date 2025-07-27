@@ -15,20 +15,35 @@ A dynamic website for the District Vocational Training Centre (DVTC – Nintavur
 
 ---
 
-## 🩺 Doctor Channeling Center (Java Desktop App)
+---
 
-A Java-based desktop application for managing doctor channeling appointments at a medical center.
+## 🏥 Doctor Channeling Center – Java Desktop App
 
-🗂 Features:
-- Patient registration and channeling system
-- Doctor availability checker
-- Billing system with Rs.750 fixed channeling fee
-- Automatically track and mark “Regular Patients”
-- Daily report generation
-- Form navigation + Insert/Modify/Delete
+A complete Java Swing-based desktop system for managing doctor appointments, medicine records, and patient interactions at a channeling center.
 
-🔒 [Private Repo – Available on Request](https://github.com/Infasa-AH/doctor-channeling-center)  
-💼 Tech Used: Java • Java Swing GUI • File Handling / JDBC
+🗂 **Features:**
+- Patient registration and appointment scheduling
+- Add/Edit/Delete doctor and medicine records
+- Daily channeling tracking system
+- Fixed channeling fee system 
+- Search, modify, delete records
+- Java Swing GUI with user-friendly forms
+
+🔒 [Private Repo – Available on Request](https://github.com/Infasa-AH/channeling-center-java)  
+💼 **Tech Used:** Java • Java Swing • File Handling or JDBC
+
+### 📸 Screenshots
+
+#### 🏠 Home
+![Home](https://github.com/Infasa-AH/channeling-center-java/blob/main/screenshots/home.PNG)
+
+#### 👨‍⚕️ Doctor Management
+![Doctor](https://github.com/Infasa-AH/channeling-center-java/blob/main/screenshots/doctor.PNG)
+
+#### 💊 Medicine Entry
+![Medicine](https://github.com/Infasa-AH/channeling-center-java/blob/main/screenshots/medicine.PNG)
+
+---
 
 ## 📂 More Projects Coming Soon...
 
@@ -40,6 +55,6 @@ I'm currently working on other exciting projects and will update this space as I
 
 - 🎓 Final Year Software Engineering Student (OUSL)
 - 💡 Web Developer | Quick Learner | Clean Coder
-- 💬 Languages: PHP, JS, HTML, CSS, MySQL, Python, Java)
+- 💬 Languages: PHP, JS, HTML, CSS, MySQL, Python, Java
 - 🔗 GitHub: [github.com/Infasa-AH](https://github.com/Infasa-AH)
 - 📫 Contact: infacoolmail@gmail.com
