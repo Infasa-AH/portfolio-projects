@@ -37,6 +37,28 @@ A complete Java Swing-based desktop system for managing doctor appointments, med
 
 ---
 
+## 🤖 OUSL Virtual Library Chatbot (Python • Rasa • Flask)
+
+A smart assistant designed for the Open University of Sri Lanka (OUSL), capable of answering student queries, helping with book and past paper searches, submitting publication requests, and more — all through a chatbot interface.
+
+🧠 **Features:**
+- 📚 Search for books and past papers (real-time results from OUSL Library)
+- 💬 General library queries (hours, services, etc.)
+- 📩 Publication Request: asks for name, email, and publication title — then emails the admin
+- 💾 Chat history: Save, rename, or delete old chats
+- 📞 Contact librarian directly through chatbot
+
+⚙️ **Technologies Used:** Python • Rasa • Flask • HTML • CSS • JavaScript
+
+🔒 [Private Repo – Available on Request]  
+💼 Status: Work in progress – will be uploaded soon
+
+### 📸 Screenshot
+
+#### 🖼️ OUSL Chatbot Interface
+![OUSL Chatbot](https://github.com/Infasa-AH/portfolio-projects/blob/main/screenshots/ousl_chatbot.PNG)
+
+
 ## 📂 More Projects Coming Soon...
 
 I'm currently working on other exciting projects and will update this space as I grow!
