@@ -32,14 +32,6 @@ A complete Java Swing-based desktop system for managing doctor appointments, med
 🔒 [Private Repo – Available on Request](https://github.com/Infasa-AH/channeling-center-java)  
 💼 **Tech Used:** Java • Java Swing • File Handling or JDBC
 
-### 📸 Screenshots
-
-#### 🏠 Home
-![Home](https://github.com/Infasa-AH/channeling-center-java/blob/main/screenshots/home.PNG)
-
-#### 👨‍⚕️ Doctor Management
-![Doctor](https://github.com/Infasa-AH/channeling-center-java/blob/main/screenshots/doctor.PNG)
-
 #### 💊 Medicine Entry
 ![Medicine](https://github.com/Infasa-AH/channeling-center-java/blob/main/screenshots/medicine.PNG)
 
